@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/bank-of-ningxia/integrations
+- https://n8n.io/integrations/bank-of-ningxia/
+- https://composio.dev/toolkits/bank-of-ningxia
+- https://monid.ai/tools/bank-of-ningxia
+checked:
+- https://composio.dev/toolkits/bank-of-ningxia
+- https://monid.ai/tools/bank-of-ningxia
+- https://n8n.io/integrations/bank-of-ningxia/
+- https://zapier.com/apps/bank-of-ningxia/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
